@@ -75,6 +75,13 @@ I'm an enthusiastic **Computer Science Engineering student**, passionate about *
 />
 </p>
 
+## 🏆 GitHub Trophies
+
+<p align="left">
+  <img src="https://github-profile-trophy.vercel.app/?username=akhilas0812-spec&theme=discord&no-frame=false&no-bg=false&margin-w=12&column=7" />
+</p>
+
+
 ### ✍️Random Dev Quote
 
 <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #1a1a1a;">
@@ -88,6 +95,4 @@ I'm an enthusiastic **Computer Science Engineering student**, passionate about *
 </p>
 
 </div>
-
-
 

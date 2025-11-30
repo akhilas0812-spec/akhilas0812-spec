@@ -58,15 +58,6 @@ I'm an enthusiastic **Computer Science Engineering student** from Trivandrum, In
 
 ---
 
-## 📌 Highlight Projects  
-
-- Smart AI Agent for Customer Support (2025–Present)
-- AI Memory Agent Framework
-- Whisper-Based Audio Transcription Engine
-- AI Recipe Generator & Content Extractor
-
----
-
 ## 📊 GitHub Stats  
 
 <p align="center">

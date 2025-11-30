@@ -2,7 +2,7 @@
 <h3 align="center">AI & Software Development Enthusiast | CSE Student</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/AI%20Developer-%F0%9F%A4%96-8A2BE2?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/AI%20-%F0%9F%A4%96-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web%20Developer-%F0%9F%8C%90-00C7B7?style=for-the-badge" />
   <img src="https://img.shields.io/badge/CSE%20Student-%F0%9F%93%9A-orange?style=for-the-badge" />
 </p>
@@ -31,6 +31,16 @@ I'm an enthusiastic **Computer Science Engineering student**, passionate about *
 
 
 ## 🛠️ Skills & Technologies  
+### **AI & Machine Learning**
+
+![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
+![SLMs](https://img.shields.io/badge/SLMs-1A73E8?style=for-the-badge)
+![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)
+![Whisper](https://img.shields.io/badge/Speech--to--Text%20(Whisper)-000000?style=for-the-badge&logo=whisper&logoColor=white)
+![Image Recognition](https://img.shields.io/badge/Image%20Recognition-FF5722?style=for-the-badge)
+![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-4CAF50?style=for-the-badge)
+![Fine Tuning](https://img.shields.io/badge/Model%20Fine--Tuning%20(Basics)-009688?style=for-the-badge)
+![AI Automation](https://img.shields.io/badge/AI%20Automation-FFC107?style=for-the-badge)
 
 ### **Programming Languages**
 <p>
@@ -65,6 +75,18 @@ I'm an enthusiastic **Computer Science Engineering student**, passionate about *
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
+## 🏆  Achievements & Certifications
+
+![🥇 Completed 4-week AI Training Program with IBM SkillsBuild & CSRBOX](https://img.shields.io/badge/%F0%9F%A5%87%20Completed%204--week%20AI%20Training%20Program%20with%20IBM%20SkillsBuild%20%26%20CSRBOX-9C27B0?style=for-the-badge)
+
+![Google Ads AI-Powered Performance](https://img.shields.io/badge/Google%20Ads%20AI--Powered%20Performance-Google-blue?style=for-the-badge&logo=google&logoColor=white)
+
+![AI & ML Training](https://img.shields.io/badge/AI%20%26%20ML%20Training-green?style=for-the-badge&logo=python&logoColor=white)
+
+![Cybersecurity](https://img.shields.io/badge/Cybersecurity-orange?style=for-the-badge&logo=databricks&logoColor=white)
+
+![WordPress Workshop](https://img.shields.io/badge/WordPress%20Workshop-1E88E5?style=for-the-badge&logo=wordpress&logoColor=white)
+
 
 ## 📊 GitHub Stats  
 
@@ -75,14 +97,17 @@ I'm an enthusiastic **Computer Science Engineering student**, passionate about *
 />
 </p>
 
+
 ## 🏆 GitHub Trophies
 
 <p align="left">
   <img src="https://github-profile-trophy.vercel.app/?username=akhilas0812-spec&theme=discord&no-frame=false&no-bg=false&margin-w=12&column=7" />
 </p>
 
+### Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=akhilas0812&label=Profile%20Views&color=0e75b6&style=flat)
 
-### ✍️Random Dev Quote
+## ✍️Random Dev Quote
 
 <div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #1a1a1a;">
 

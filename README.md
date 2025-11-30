@@ -7,19 +7,28 @@
   <img src="https://img.shields.io/badge/CSE%20Student-%F0%9F%93%9A-orange?style=for-the-badge" />
 </p>
 
----
-
-## About Me  
-I'm an enthusiastic **Computer Science Engineering student** from Trivandrum, India, passionate about **AI, web development, and intelligent automation**. I love building real projects, exploring modern AI systems, and understanding how large-scale applications are designed.
+## About Me 
+I'm an enthusiastic **Computer Science Engineering student**, passionate about **AI, web development, and intelligent automation**. I love building real projects, exploring modern AI systems, and understanding how large-scale applications are designed.
 
 ✨ **What I'm focusing on right now:**  
-- Currently working on **AI Agents, LLMs, and SLM-based applications**
-- Diving deeper into **Java, Spring Boot & React**  
-- Actively looking for **internships + industry projects**
+- Currently working on AI Agents, LLMs, and SLM-based applications
+- Diving deeper into Java, Spring Boot & React 
+- Actively looking for **internships, fresher roles, and industry collaborations**
 - 🎯 Goal: Build impactful AI-driven applications & grow as a software engineer
 
 
----
+## 🌐 Socials
+
+<a href="mailto:akhilas.0812@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://www.linkedin.com/in/akhilas1">
+  <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://www.instagram.com/a.khiila">
+  <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
+
 
 ## 🛠️ Skills & Technologies  
 
@@ -56,7 +65,6 @@ I'm an enthusiastic **Computer Science Engineering student** from Trivandrum, In
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
----
 
 ## 📊 GitHub Stats  
 
@@ -67,21 +75,19 @@ I'm an enthusiastic **Computer Science Engineering student** from Trivandrum, In
 />
 </p>
 
----
+### ✍️Random Dev Quote
 
-## 🌐 Let's Connect ...
-<p align="center">
-  <a href="mailto:akhilas.0812@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.linkedin.com/in/akhilas1">
-    <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://www.instagram.com/a.khiila">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
-  </a>
+<div style="background: #0d1117; padding: 20px; border-radius: 12px; border: 1px solid #1a1a1a;">
+
+<p style="color: #9BE9FF; font-size: 1.1rem;">
+<b>“Learning, building, and improving — one iteration at a time.”</b>
 </p>
 
----
+<p style="color: #FF4D94; text-align: right; font-size: 1rem;">
+<b>— Anonymous</b>
+</p>
 
-<h3 align="center"> Thank you for visiting my GitHub! <br/>Feel free to explore my work and drop a star 🌟</h3>
+</div>
+
+
+

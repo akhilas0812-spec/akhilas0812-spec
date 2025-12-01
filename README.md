@@ -29,7 +29,7 @@ I'm an enthusiastic **CSE student**, passionate about **AI, web development, and
 </a>
 
 
-## 🛠️ Skills & Technologies  
+## 💻 Tech Stack 
 ### **AI & Machine Learning**
 
 ![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
@@ -75,13 +75,10 @@ I'm an enthusiastic **CSE student**, passionate about **AI, web development, and
 </p>
 
 
-## 📊 GitHub Stats  
+## 📊 GitHub Stats
 
-<p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=akhilas0812-spec&theme=tokyonight&hide_border=true&cache_bust=1"
-    height="160"
-  />
+<p align="center"> 
+  <img src="https://streak-stats.demolab.com?user=akhilas0812-spec&theme=tokyonight&hide_border=true&cache_bust=1" height="160" /> 
 </p>
 
 

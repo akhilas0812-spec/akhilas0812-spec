@@ -8,11 +8,10 @@
 </p>
 
 ## About Me 
-I'm an enthusiastic **Computer Science Engineering student**, passionate about **AI, web development, and intelligent automation**. I love building real projects, exploring modern AI systems, and understanding how large-scale applications are designed.
+I'm an enthusiastic **CSE student**, passionate about **AI, web development, and intelligent automation**. I love building real projects, exploring modern AI systems, and understanding how large-scale applications are designed.
 
 ✨ **What I'm focusing on right now:**  
 - Currently working on AI Agents, LLMs, and SLM-based applications
-- Diving deeper into Java, Spring Boot & React 
 - Actively looking for **internships, fresher roles, and industry collaborations**
 - 🎯 Goal: Build impactful AI-driven applications & grow as a software engineer
 
@@ -75,26 +74,14 @@ I'm an enthusiastic **Computer Science Engineering student**, passionate about *
   <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" />
 </p>
 
-## 🏆  Achievements & Certifications
-
-![🥇 Completed 4-week AI Training Program with IBM SkillsBuild & CSRBOX](https://img.shields.io/badge/%F0%9F%A5%87%20Completed%204--week%20AI%20Training%20Program%20with%20IBM%20SkillsBuild%20%26%20CSRBOX-9C27B0?style=for-the-badge)
-
-![Google Ads AI-Powered Performance](https://img.shields.io/badge/Google%20Ads%20AI--Powered%20Performance-Google-blue?style=for-the-badge&logo=google&logoColor=white)
-
-![AI & ML Training](https://img.shields.io/badge/AI%20%26%20ML%20Training-green?style=for-the-badge&logo=python&logoColor=white)
-
-![Cybersecurity](https://img.shields.io/badge/Cybersecurity-orange?style=for-the-badge&logo=databricks&logoColor=white)
-
-![WordPress Workshop](https://img.shields.io/badge/WordPress%20Workshop-1E88E5?style=for-the-badge&logo=wordpress&logoColor=white)
-
 
 ## 📊 GitHub Stats  
 
 <p align="center">
   <img 
-    src="https://streak-stats.demolab.com?user=akhilas0812-spec&theme=tokyonight&hide_border=true"
+    src="https://streak-stats.demolab.com?user=akhilas0812-spec&theme=tokyonight&hide_border=true&cache_bust=1"
     height="160"
-/>
+  />
 </p>
 
 

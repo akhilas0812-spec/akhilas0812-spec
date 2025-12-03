@@ -82,9 +82,6 @@ I'm an enthusiastic **CSE student**, passionate about **AI, web development, and
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=akhilas0812-spec&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-
-
-
 ## 🏆 GitHub Trophies
 
 <p align="left">

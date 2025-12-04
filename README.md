@@ -8,6 +8,7 @@
 </p>
 
 
+
 ## About Me  
 I'm an enthusiastic **CSE student**, passionate about **AI, web development, and intelligent automation**. I love building real projects, exploring modern AI systems, and understanding how large-scale applications are designed.
 

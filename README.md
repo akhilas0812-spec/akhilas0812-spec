@@ -1,7 +1,6 @@
 <h1 align="center">Hey, I'm Akhila 👋</h1>
 <h3 align="center">AI & Software Development Enthusiast | CSE Student</h3>
 
-
 <p align="center">
   <img src="https://img.shields.io/badge/AI%20-%F0%9F%A4%96-8A2BE2?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Web%20Developer-%F0%9F%8C%90-00C7B7?style=for-the-badge" />

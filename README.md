@@ -33,13 +33,11 @@ I'm an enthusiastic **CSE student**, passionate about **AI, web development, and
 ## 💻 Tech Stack 
 ### **AI & Machine Learning**
 
-![LLMs](https://img.shields.io/badge/LLMs-000000?style=for-the-badge&logo=openai&logoColor=white)
 ![SLMs](https://img.shields.io/badge/SLMs-1A73E8?style=for-the-badge)
 ![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)
 ![Whisper](https://img.shields.io/badge/Speech--to--Text%20(Whisper)-000000?style=for-the-badge&logo=whisper&logoColor=white)
 ![Image Recognition](https://img.shields.io/badge/Image%20Recognition-FF5722?style=for-the-badge)
 ![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-4CAF50?style=for-the-badge)
-![Fine Tuning](https://img.shields.io/badge/Model%20Fine--Tuning%20(Basics)-009688?style=for-the-badge)
 ![AI Automation](https://img.shields.io/badge/AI%20Automation-FFC107?style=for-the-badge)
 
 ### **Programming Languages**
@@ -82,14 +80,6 @@ I'm an enthusiastic **CSE student**, passionate about **AI, web development, and
   <img src="https://github-readme-streak-stats-eight.vercel.app?user=akhilas0812-spec&theme=tokyonight&hide_border=true" height="160" />
 </p>
 
-## 🏆 GitHub Trophies
-
-<p align="left">
-  <img src="https://github-profile-trophy.vercel.app/?username=akhilas0812-spec&theme=discord&no-frame=false&no-bg=false&margin-w=12&column=7" />
-</p>
-
-### Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=akhilas0812&label=Profile%20Views&color=0e75b6&style=flat)
 
 ## ✍️Random Dev Quote
 

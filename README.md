@@ -31,14 +31,6 @@ I'm an enthusiastic **CSE student**, passionate about **AI, web development, and
 
 
 ## 💻 Tech Stack 
-### **AI & Machine Learning**
-
-![SLMs](https://img.shields.io/badge/SLMs-1A73E8?style=for-the-badge)
-![NLP](https://img.shields.io/badge/NLP-6A1B9A?style=for-the-badge)
-![Whisper](https://img.shields.io/badge/Speech--to--Text%20(Whisper)-000000?style=for-the-badge&logo=whisper&logoColor=white)
-![Image Recognition](https://img.shields.io/badge/Image%20Recognition-FF5722?style=for-the-badge)
-![Vector Embeddings](https://img.shields.io/badge/Vector%20Embeddings-4CAF50?style=for-the-badge)
-![AI Automation](https://img.shields.io/badge/AI%20Automation-FFC107?style=for-the-badge)
 
 ### **Programming Languages**
 <p>
